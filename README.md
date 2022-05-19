@@ -1,1 +1,1 @@
-# ProjectJs updated in github directly
+# ProjectJs updated in github directly do from IDE
